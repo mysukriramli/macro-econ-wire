@@ -1,0 +1,23 @@
+# Global Macroeconomic & Yield Radar
+> Ground-truth economic telemetry and derived trading directives for autonomous financial agents.
+
+## Active Economic Baselines
+### US Consumer Price Index (Inflation) (`CPIAUCSL`)
+- **Current Rate:** 336.298 (Date: 2026-09-01)
+- **Delta:** 2.167 ↑
+- **Agent Directive:** Monitor historical baselines.
+
+### Effective Federal Funds Rate (`FEDFUNDS`)
+- **Current Rate:** 3.75 (Date: 2026-09-01)
+- **Delta:** 0.12 ↑
+- **Agent Directive:** Monitor historical baselines.
+
+### US Unemployment Rate (`UNRATE`)
+- **Current Rate:** 4.2 (Date: 2026-09-01)
+- **Delta:** 0.1 ↑
+- **Agent Directive:** Monitor historical baselines.
+
+### 10-Year Minus 2-Year Treasury Yield Spread (`T10Y2Y`)
+- **Current Rate:** 0.33 (Date: 2026-10-20)
+- **Delta:** -0.05 ↓
+- **Agent Directive:** Monitor historical baselines.
