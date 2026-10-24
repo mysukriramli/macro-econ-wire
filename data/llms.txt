@@ -18,6 +18,6 @@
 - **Agent Directive:** Monitor historical baselines.
 
 ### 10-Year Minus 2-Year Treasury Yield Spread (`T10Y2Y`)
-- **Current Rate:** 0.31 (Date: 2026-10-22)
-- **Delta:** -0.01 ↓
+- **Current Rate:** 0.31 (Date: 2026-10-23)
+- **Delta:** 0.0 →
 - **Agent Directive:** Monitor historical baselines.
