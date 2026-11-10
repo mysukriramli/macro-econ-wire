@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-09T23:14:57.279478+00:00",
+    "generated_at": "2026-11-10T20:40:41.814829+00:00",
     "source": "US Federal Reserve (FRED)",
     "schema_version": "1.0.0"
   },
@@ -8,10 +8,10 @@
     {
       "symbol": "CPIAUCSL",
       "name": "US Consumer Price Index (Inflation)",
-      "latest_value": 336.298,
-      "latest_date": "2026-09-01",
-      "previous_value": 334.131,
-      "delta": 2.167,
+      "latest_value": 337.476,
+      "latest_date": "2026-10-01",
+      "previous_value": 336.298,
+      "delta": 1.178,
       "agent_directive": "Monitor historical baselines."
     },
     {

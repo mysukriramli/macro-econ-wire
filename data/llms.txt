@@ -3,8 +3,8 @@
 
 ## Active Economic Baselines
 ### US Consumer Price Index (Inflation) (`CPIAUCSL`)
-- **Current Rate:** 336.298 (Date: 2026-09-01)
-- **Delta:** 2.167 ↑
+- **Current Rate:** 337.476 (Date: 2026-10-01)
+- **Delta:** 1.178 ↑
 - **Agent Directive:** Monitor historical baselines.
 
 ### Effective Federal Funds Rate (`FEDFUNDS`)
