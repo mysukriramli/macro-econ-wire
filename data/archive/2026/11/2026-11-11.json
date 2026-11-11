@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "generated_at": "2026-11-11T21:00:55.645980+00:00",
+    "source": "US Federal Reserve (FRED)",
+    "schema_version": "1.0.0"
+  },
+  "indicators": [
+    {
+      "symbol": "CPIAUCSL",
+      "name": "US Consumer Price Index (Inflation)",
+      "latest_value": 337.476,
+      "latest_date": "2026-10-01",
+      "previous_value": 336.298,
+      "delta": 1.178,
+      "agent_directive": "Monitor historical baselines."
+    },
+    {
+      "symbol": "FEDFUNDS",
+      "name": "Effective Federal Funds Rate",
+      "latest_value": 3.88,
+      "latest_date": "2026-10-01",
+      "previous_value": 3.75,
+      "delta": 0.13,
+      "agent_directive": "Monitor historical baselines."
+    },
+    {
+      "symbol": "UNRATE",
+      "name": "US Unemployment Rate",
+      "latest_value": 4.1,
+      "latest_date": "2026-10-01",
+      "previous_value": 4.2,
+      "delta": -0.1,
+      "agent_directive": "Monitor historical baselines."
+    },
+    {
+      "symbol": "T10Y2Y",
+      "name": "10-Year Minus 2-Year Treasury Yield Spread",
+      "latest_value": 0.25,
+      "latest_date": "2026-11-10",
+      "previous_value": 0.32,
+      "delta": -0.07,
+      "agent_directive": "Monitor historical baselines."
+    }
+  ]
+}
