@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T21:41:14.793610+00:00",
+    "generated_at": "2026-11-19T21:56:40.708632+00:00",
     "source": "US Federal Reserve (FRED)",
     "schema_version": "1.0.0"
   },
@@ -35,10 +35,10 @@
     {
       "symbol": "T10Y2Y",
       "name": "10-Year Minus 2-Year Treasury Yield Spread",
-      "latest_value": 0.3,
-      "latest_date": "2026-11-17",
-      "previous_value": 0.29,
-      "delta": 0.01,
+      "latest_value": 0.27,
+      "latest_date": "2026-11-18",
+      "previous_value": 0.3,
+      "delta": -0.03,
       "agent_directive": "Monitor historical baselines."
     }
   ]
